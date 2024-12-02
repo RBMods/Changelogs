@@ -1,7 +1,3 @@
-==================
- Action Launcher
-==================
-
 v51.0 (27 nov 2024)
 
 Applied Changes By RBMods:
