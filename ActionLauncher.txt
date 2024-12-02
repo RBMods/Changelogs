@@ -1,0 +1,34 @@
+==================
+ Action Launcher
+==================
+
+v51.0 (27 nov 2024)
+
+Applied Changes By RBMods:
+• Plus Activated (All Plus Features Unlocked);
+• Donate 2015 Activated (All Donate Features Unlocked);
+• Supporter (All 2016-2022) Activated (All Supporter Features Unlocked);
+• Drawer Grid Max Limit Extended from 12×12 to 20×20;
+• Drawer Grid Min Limit Extended from 3×3 to 2×2;
+• QuickPage Grid Max Limit Extended from 10×10 to 20×20;
+• QuickPage Grid Min Limit Extended from 3×3 to 2×2;
+• Badge Count Limit Extended from 4 to 69;
+• Optimized Graphics & Cleaned Resources for Fast Load;
+• Bug & Analytics Reporting Disabled By Default;
+• Google Ads Links Removed/Nullified;
+• Ads Invokes Removed/Nullified;
+• Ads Permissions & Receivers Removed;
+• Ads Layout Disabled;
+• Firebase/Analytics Disabled;
+• No Active Trackers in App By Default;
+• Google Play Store Install Package Check Disabled;
+• Google Play Services Sign Check Disabled;
+• Google Play Billing Disabled ThroughOut the APK;
+• Disabled Unwanted Permissions + Receivers + Services + Providers;
+• Debug Info Including corresponding .sources Tags Removed
+• Split APK Repacking Files Removed;
+• Trash Folders & files Removed from Root Path of APK;
+• Languages- Multilingual
+• CPU Arch- Universal (Armeabi-v7a + Arm64-v8a + x86 + x86_64)
+• Screen DPI- Universal (m to xxxhdpi: 120dpi, 160dpi, 240dpi, 320dpi, 480dpi, 640dpi)
+★ Exclusive Release By RBMods aka Rockmods (TG/RBMods)
